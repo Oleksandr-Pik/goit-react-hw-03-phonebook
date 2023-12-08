@@ -13,3 +13,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button {
+  cursor: pointer;
+}
+
+button:hover,
+button:focus {
+  background-color: blue;
+  color: #FFF;
+}
